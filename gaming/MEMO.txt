@@ -1,0 +1,36 @@
+参考：https://youtu.be/1Aq9OJuS3ok
+
+:nth-child()
+疑似クラス。兄弟グループの中での位置に基づいて番号を振る
+
+letter-spacing
+テキスト間隔
+
+solid 
+ボーダーラインを実線で
+
+transparent
+要素を透明にする
+
+::before
+要素の前を修飾
+
+box-shadow(x offset, y offset, blur-radius, color)
+
+linear 
+等速運動
+
+@keyframes{
+    from
+    {
+        effect
+    }
+    to
+    {
+        effect
+    }
+}
+
+initial
+要素にプロパティの初期値を設定
+
